@@ -1,8 +1,15 @@
 package ru.job4j;
+import java.util.Scanner;
+
 
 public class StudentInfo {
+    @SuppressWarnings("checkstyle:ParenPad")
     public static void main(String[] args) {
-        System.out.println("Ivan Svyatobog");
-        System.out.println("08.02.1992");
+        int age = 18;
+
+        float length = 78.0332f;
+
+        boolean baby = true;
+        System.out.println("Привет Мир!");
     }
 }
