@@ -2,7 +2,6 @@ package ru.job4j;
 import java.util.Scanner;
 
 public class StudentInfo {
-    @SuppressWarnings("checkstyle:ParenPad")
     public static void main(String[] args) {
         int age = 18;
 
